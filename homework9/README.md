@@ -4,8 +4,8 @@
 
 视频内容：
 
-1. Test1--测试全部使用AI能否成功过河
-2. Test2--测试AI和用户操作结合能否成功过河
+1. [Test1--测试全部使用AI能否成功过河](https://v.youku.com/v_show/id_XMzY3NDIxMjMwOA==.html?spm=a2h3j.8428770.3416059.1)
+2. [Test2--测试AI和用户操作结合能否成功过河](https://v.youku.com/v_show/id_XMzY3NDIxNDUyOA==.html?spm=a2h3j.8428770.3416059.1)
 
 Script:
 
